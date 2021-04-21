@@ -1,0 +1,9 @@
+# Unnecessary directories
+dist
+data
+
+actualTestPredictions
+actualTrainPredictions
+expectedTestPredictions
+
+*.jar
